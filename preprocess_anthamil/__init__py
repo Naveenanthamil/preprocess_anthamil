@@ -9,7 +9,7 @@ def _get_charcounts(x):
 	return utils._get_charcounts(x)
 
 def _avg_wordlength(x):
-	return utils.avg_wordlength(x)
+	return utils._avg_wordlength(x)
 
 def	_get_stopwords_counts(x):
 	return utils._get_stopwords_counts(x)
@@ -22,7 +22,7 @@ def _get_mentions_counts(x):
 	return utls._get_mentions_counts(x)
 
 def _get_digit_counts(x):
-	return utils.get_digit_counts(x)
+	return utils._get_digit_counts(x)
 
 def _get_uppercase_counts(x):
 	return utils._get_uppercase_counts(x)
