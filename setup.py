@@ -5,7 +5,7 @@ with open('Readme.md','r') as file:
 
 
 setuptools.setup(
-	name='preprocess_anthamil',version='0.0.1',author='naveen_anthamil',author_email='mail2naveen1202@gmail.com',
+	name='preprocess_anthamil',version='0.0.1',author='naveen_anthamil',author_email='naveenanthamil12@gmail.com',
 	description='This is preprocessing package',long_description=long_description,
 	long_description_content_type='text/markdown',
 	packages=setuptools.find_packages,
