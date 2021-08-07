@@ -59,7 +59,7 @@ def _remove_stopwords(x):
 	return utils._remove_stopwords(x)	
 
 def make_base(x):	
-	return utils.make_base(x):	
+	return utils.make_base(x)
 
 def _remove_common_words(x,n=20):
 	return utils._remove_common_words(x,n=20)
